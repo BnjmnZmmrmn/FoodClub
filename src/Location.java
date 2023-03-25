@@ -41,6 +41,16 @@ public class Location {
         put("Tangy Tropic Slush","sl");
         put("Strochal","c");
         put("Wriggling Grub","gf");
+        put("Apple Onion Rings","f gf");
+        put("Negg Stew","n");
+        put("Cheese and Tomato Sub","f b d");
+        put("Spicy Wings","spf m");
+        put("Sushi","sf m");
+        put("Ice Chocolate Cake","c");
+        put("Lemon Blitz","f d sm");
+        put("Flaming Burnumup","spf v");
+        put("Blueberry Tomato Blend","f d sm");
+        put("Super Lemon Grape Slush","sl");
     }};
 
     /** m sl b sf gf c v d n sm p spf f

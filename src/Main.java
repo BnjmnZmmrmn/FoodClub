@@ -2,64 +2,64 @@ public class Main {
     public static void main(String[] args) {
         String shipwreckD = "Shipwreck\n" +
                 "Pirates\n" +
-                "Ned the Skipper\tFranchisco Corvallio\n" +
-                "Bonnie Pip Culliford\tAdmiral Blackbeard\n" +
+                "Fairfax the Deckhand\tBonnie Pip Culliford\n" +
+                "Lucky McKyriggan\tGooblah the Grarrl\n" +
                 " \n" +
                 "Courses\n" +
-                "Ultimate Burger\tCinnamon Swirl\n" +
-                "Grapity Slush\tMustard Ice Cream\n" +
-                "Hot Cakes\tAsparagus Pie\n" +
-                "Fresh Seaweed Pie\tOrange Negg\n" +
-                "Fungi Pizza\tWild Chocomato\n" +
+                "Streaky Bacon\tAnchovies\n" +
+                "Wriggling Grub\tBroccoli\n" +
+                "Fresh Seaweed Pie\tBacon Muffin\n" +
+                "Cinnamon Swirl\tBubbling Blueberry Pizza\n" +
+                "Sushi\tLemon Blitz\n" +
                 " \n";
         String lagoonD = "Lagoon\n" +
                 "Pirates\n" +
-                "Captain Crossblades\tOl' Stripey\n" +
-                "Stuff-A-Roo\tGooblah the Grarrl\n" +
+                "Franchisco Corvallio\tOrvinn the First Mate\n" +
+                "Sir Edmund Ogletree\tThe Tailhook Kid\n" +
                 " \n" +
                 "Courses\n" +
-                "Broccoli and Cheese Pizza\tEye Candy\n" +
-                "Anchovies\tWild Chocomato\n" +
-                "Mallowicious Bar\tHotfish\n" +
-                "Hot Cakes\tStreaky Bacon\n" +
-                "Broccoli\tFlaming Fire Faerie Pizza\n" +
-                " \n";
+                "Sushi\tFungi Pizza\n" +
+                "Flaming Fire Faerie Pizza\tNegg Stew\n" +
+                "Cinnamon Swirl\tHotfish\n" +
+                "Hot Tyrannian Pepper\tUltimate Burger\n" +
+                "Wild Chocomato\tStreaky Bacon\n" +
+                " ";
         String treasureIslandD = "Treasure Island\n" +
                 "Pirates\n" +
-                "Scurvy Dan the Blade\tSquire Venable\n" +
-                "Buck Cutlass\tLucky McKyriggan\n" +
+                "Stuff-A-Roo\tOl' Stripey\n" +
+                "Ned the Skipper\tPeg Leg Percival\n" +
                 " \n" +
                 "Courses\n" +
-                "Hot Tyrannian Pepper\tCinnamon Swirl\n" +
-                "Mustard Ice Cream\tJoint Of Ham\n" +
-                "Worm and Leech Pizza\tBacon Muffin\n" +
-                "Ultimate Burger\tBroccoli and Cheese Pizza\n" +
-                "Rainborific Slush\tHotfish\n" +
+                "Streaky Bacon\tFresh Seaweed Pie\n" +
+                "Hotfish\tApple Onion Rings\n" +
+                "Rasmelon\tStrochal\n" +
+                "Mallowicious Bar\tCinnamon Swirl\n" +
+                "Broccoli\tSushi\n" +
                 " ";
         String hiddenCoveD = "Hidden Cove\n" +
                 "Pirates\n" +
-                "Fairfax the Deckhand\tSir Edmund Ogletree\n" +
-                "Orvinn the First Mate\tPuffo the Waister\n" +
+                "Scurvy Dan the Blade\tCaptain Crossblades\n" +
+                "Admiral Blackbeard\tBuck Cutlass\n" +
                 " \n" +
                 "Courses\n" +
-                "Bubbling Blueberry Pizza\tRasmelon\n" +
-                "Fungi Pizza\tRainbow Negg\n" +
-                "Fish Negg\tTangy Tropic Slush\n" +
-                "Bacon Muffin\tOrange Negg\n" +
-                "Flaming Fire Faerie Pizza\tRainborific Slush\n" +
-                " \n";
+                "Anchovies\tIce Chocolate Cake\n" +
+                "Eye Candy\tUltimate Burger\n" +
+                "Bubbling Blueberry Pizza\tWild Chocomato\n" +
+                "Sushi\tSpicy Wings\n" +
+                "Asparagus Pie\tRainborific Slush\n" +
+                " ";
         String harpoonHarrysD = "Harpoon Harry's\n" +
                 "Pirates\n" +
-                "Federismo Corvallio\tThe Tailhook Kid\n" +
-                "Young Sproggie\tPeg Leg Percival\n" +
+                "Puffo the Waister\tSquire Venable\n" +
+                "Federismo Corvallio\tYoung Sproggie\n" +
                 " \n" +
                 "Courses\n" +
-                "Strochal\tRainbow Negg\n" +
-                "Fish Negg\tBroccoli\n" +
-                "Ultimate Burger\tBubbling Blueberry Pizza\n" +
-                "Tangy Tropic Slush\tRainborific Slush\n" +
-                "Wriggling Grub\tOrange Negg\n" +
-                " \n";
+                "Worm and Leech Pizza\tBacon Muffin\n" +
+                "Hot Cakes\tEye Candy\n" +
+                "Anchovies\tSuper Lemon Grape Slush\n" +
+                "Grapity Slush\tBroccoli and Cheese Pizza\n" +
+                "Asparagus Pie\tStreaky Bacon\n" +
+                " ";
 
         Location shipwreck = new Location(shipwreckD);
         Location lagoon = new Location(lagoonD);
